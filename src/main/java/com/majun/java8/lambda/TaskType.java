@@ -6,6 +6,7 @@ package com.majun.java8.lambda;
 public enum TaskType {
 
     READING,
-    WRITING;
+    WRITING,
+    CODING;
 
 }
